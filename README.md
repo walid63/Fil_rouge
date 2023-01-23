@@ -13,7 +13,7 @@
 ### Principales améliorations futures Il manque beaucoup de choses car il s'agit d'une application pas à pas. Certaines des fonctionnalités essentielles qui lui manquent sont :
 
 - [x] Securité du site
-- [] Compte et panel admin
+- [ ] Compte et panel admin
 - [x] Page detaillées du produits
 - [x] Traitement des paiments
 - [x] Promotion de produits
